@@ -1,0 +1,85 @@
+.timeline {
+    list-style-type: none;
+    margin: 40px;
+    padding: 40px;
+    overflow: hidden;
+    background-color: rgb(255, 247, 247);
+    color: rgb(0, 187, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    vertical-align: middle;
+}
+.picture {
+    list-style-type:none;
+    width: 200px;
+    height:300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spellingbee {
+    width:250px;
+    height:200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wtp {
+    width:200px;
+    height:200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+
+}
+
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 247, 247);
+    color: rgb(0, 187, 255);
+    margin: 40px;
+    padding: 40px;
+    text-align: center;
+
+}
+
+p { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 247, 247);
+    color: rgb(0, 187, 255);
+    margin: 40px;
+    padding: 40px;
+    text-align: center; 
+}
+
+.video {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    list-style: none;
+    margin: 40px;
+    padding: 40px;
+    overflow: hidden;
+    background-color: white;
+}
+
+.navbar {
+    float:inline-start;
+}
+
+.navbar a {
+    list-style:none;
+    display: block;
+    color: rgb(0, 187, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: rgb(102, 113, 132);
+}
